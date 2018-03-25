@@ -16,7 +16,7 @@ if argc != 2:
 searchterm = argv[1]
 pic_num = 1000 #目安
 
-url = "https://www.google.co.in/search?q="+searchterm+"&source=lnms&tbm=isch"
+url = "https://www.google.com/search?q="+searchterm+"&source=lnms&tbm=isch"
 # NEED TO DOWNLOAD CHROMEDRIVER, insert path to chromedriver inside parentheses in following line
 options = webdriver.ChromeOptions()
 options.add_argument("--kiosk")
