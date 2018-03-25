@@ -1,4 +1,4 @@
-# [WIP] Google画像検索から自動で画像を保存するスクリプト
+# Google画像検索から自動で画像を保存するスクリプト
 
 Google画像検索の仕様上，500枚程度しかダウンロードできないため，bing画像検索を使うことをおすすめします．
 
@@ -6,7 +6,7 @@ Google画像検索の仕様上，500枚程度しかダウンロードできな�
 
 # Usage
 ```
-python gimgdl 検索語
+python gimgdl.py 検索語
 ```
 または，jupyter-notebookで開いて使う
 
